@@ -147,7 +147,7 @@ python3 publisher.py
 Run subscriber code :
 python3 subscriber.py
 
-# Producer Execution
+# Publisher Execution
 
 ![producer](https://github.com/user-attachments/assets/7f223d2f-e1a2-4b58-9484-35592d89fb69)
 
